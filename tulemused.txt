@@ -1,0 +1,4 @@
+Valeria: Kaotus | Mängija summa: 16 | Arvuti summa: 19
+Valeria: Võit | Mängija summa: 17 | Arvuti summa: 25
+Valeria: Kaotus | Mängija summa: 15 | Arvuti summa: 19
+Valeria: Võit | Mängija summa: 17 | Arvuti summa: 22
